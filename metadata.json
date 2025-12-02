@@ -1,9 +1,0 @@
-{
-  "name": "Copy of Copy of Copy of Copy of Copy of Copy of Copy of Copy of Persian Estate AI",
-  "description": "A dark-themed Real Estate PWA dashboard with Persian interface and AI-powered property search.",
-  "requestFramePermissions": [
-    "microphone",
-    "camera",
-    "geolocation"
-  ]
-}

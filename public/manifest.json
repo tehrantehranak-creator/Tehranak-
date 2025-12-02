@@ -1,0 +1,21 @@
+{
+  "name": "Tehranak Real Estate",
+  "short_name": "Tehranak",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0F172A",
+  "theme_color": "#0F172A",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/609/609803.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/609/609803.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
